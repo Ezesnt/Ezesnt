@@ -1,11 +1,10 @@
-## Hi there 👋
+
 
 <!--<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/dda06007-f21e-48a4-a533-acde65bf6304" />
 
-**Ezesnt/Ezesnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👨‍💻 Javier Ezequiel Santillán  
-### Backend Developer — Python • Java • .NET  
+## Backend Developer — Python • Java • .NET  
 
 📍 Buenos Aires, Argentina  
 📧 **ezesnt@gmail.com**  
