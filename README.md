@@ -2,11 +2,7 @@
 
 <h1>👨‍💻 Hi, I'm Javier</h1>
 
-<img 
-  src="/mnt/data/A_2D_digital_illustration_features_a_young_male_ch.png" 
-  width="100%" 
-  alt="banner"
-/>
+<img width="1584" height="396" alt="banner1" src="https://github.com/user-attachments/assets/44a0b545-8d49-4e81-b12a-5e4e609a400b" />
 
 <h3>Backend Developer — Python • Java • .NET</h3>
 
@@ -15,13 +11,13 @@
 <!-- Contact & Social Icons -->
 <p>
   <!-- Location -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlemaps.svg" width="22" />
   <b> Buenos Aires, Argentina</b>
 </p>
 
 <p>
   <!-- Email Icon -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="22" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="22" />
   <b> ezesnt@gmail.com</b>
 </p>
 
@@ -48,8 +44,8 @@
 <h2>🚀 About Me</h2>
 
 <p>
-Backend Developer focused on writing clean, scalable and efficient APIs.<br>
-Specialized in <b>Python</b>, <b>Java</b>, and <b>.NET</b> with experience in designing robust backend systems using modern tools and good engineering practices.
+Backend Developer focused on clean, scalable and efficient APIs.<br>
+Experienced in <b>Python</b>, <b>Java</b> and <b>.NET</b>, building robust backend systems with modern tools and best engineering practices.
 </p>
 
 <hr/>
@@ -58,7 +54,7 @@ Specialized in <b>Python</b>, <b>Java</b>, and <b>.NET</b> with experience in de
 
 <h3>🔹 Zoonosis Management System (Backend API)</h3>
 <p>
-API for municipal zoonosis case tracking, built with Python, Flask, SQLAlchemy, and PostgreSQL.<br/>
+Municipal API for animal control, built with Python, Flask, SQLAlchemy, and PostgreSQL.<br/>
 🔗 <a href="https://github.com/Ezesnt/Zoonosis_api_demo">Repository</a><br/>
 🔗 <a href="https://sanidadanimalbariloche.com/">Live</a>
 </p>
@@ -67,7 +63,7 @@ API for municipal zoonosis case tracking, built with Python, Flask, SQLAlchemy, 
 
 <h3>🔹 Hotel Management API</h3>
 <p>
-REST API for reservations, authentication (JWT), and data validation with Marshmallow.<br/>
+REST API for reservations, authentication (JWT), and validation with Marshmallow.<br/>
 🔗 <a href="https://github.com/Ezesnt/Hotel_api">Repository</a>
 </p>
 
@@ -75,7 +71,7 @@ REST API for reservations, authentication (JWT), and data validation with Marshm
 
 <h3>🔹 Portfolio Website</h3>
 <p>
-Personal developer portfolio built with modern front-end tools.<br/>
+Developer portfolio built with modern front-end tools.<br/>
 🔗 <a href="https://santillandev.vercel.app/">Live</a>
 </p>
 
